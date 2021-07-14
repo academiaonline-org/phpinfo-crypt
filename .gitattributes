@@ -1,0 +1,2 @@
+password filter=git-crypt diff=git-crypt
+password2 filter=git-crypt diff=git-crypt
